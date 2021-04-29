@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/ImageAsset.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/VideoAsset.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/computervision/ContrastAwareWord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/computervision/ocr/Line.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/computervision/ocr/OcrWord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/computervision/read/ReadLine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/model/asset/computervision/read/ReadWord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/java/com/cognifide/coin/server/drools/utils/computervision/ColorPalette.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/application-fflags-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/bose-ad-button-has-text.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/bose-ad-button-is-present.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/bose-ad-dominant-color.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/bose-ad-logo-is-present.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/bose-ad-logo-on-edge.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/bose-ad-words-limit.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/enso-journey2.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/general/image/a11y/min-contrast-ratio.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/general/image/a11y/min-text-size.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/general/image/color-palette.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/general/video/color-palette.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/general/video/sample-video.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/kotex.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/pharma-journey2.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/pharma-journey3.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/pharma-journey4.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/main/resources/rules/social-pharma-journey2.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/core/src/test/java/com/cognifide/coin/server/drools/rules/image/ColorPaletteRuleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/docs/rule-authoring.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Cognifide/OBG/core/test/wiremock/src/test/java/com/cognifide/coin/server/drools/rules/image/a11y/MinContrastRatioRuleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/StdRandom.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/HelloWorld.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Percolation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PercolationStats.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
